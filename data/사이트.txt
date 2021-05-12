@@ -1,0 +1,64 @@
+[저작권 경제 기여도]
+# 저작권 관련 통계: https://www.copyright.or.kr/information-materials/statistics/GDPByIndustry/index.do#none
+	- 저작권 등록
+	- 저작권 사용료(징수)
+	- 저작권 보상금(징수)
+	- 사법처리 현황
+	- 시정권고 현황
+	- 저작권 교육
+	- 저작권 산업
+	- 산업별 명목 GDP 비중 
+	- 국가별 명목 GDP 비중 
+	- 저작권 상담
+	- 공유 저작물 DB 구축
+	- SW 임치 현황 
+	- 저작권 분쟁조정 
+	- 분석 보고서 
+
+[음악 저작권 기사] - 연구 배경, 워드클라우드, 웹크롤링 
+* 음악저작권 피해의 발단 
+https://www.e-focus.co.kr/news/articleView.html?idxno=7957 [mp3와 소리바다의 등장2020.12.01]
+
+* 저작권 분쟁 
+http://www.mediatoday.co.kr/news/articleView.html?idxno=103633 [음원한곡에 12원, 우리가 거지인가 2012.]
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=020&aid=0000237621
+[MP3폰업계와 저작권단체 갈등 - 2004.05.07]
+
+* 스트리밍 서비스 
+https://www.hankyung.com/it/article/2018060837161[부활한 음악산업의 일등공신 스트리밍2018.06.09]
+http://www.snunews.com/news/articleView.html?idxno=18866 [스트리밍 서비스가 걸어온 길2018.11.18]
+https://www.hankyung.com/it/article/2020062223761 [MP3가 죽인 음악산업 스트리밍이 살렸다.2020.06.22]
+
+but;
+
+* 저작권이 어떤식으로 침해되고 있는가? 1
+https://news.joins.com/article/21999193 [4대음원 유통사 미지급 저작권료 현황 2017.10.10]
+- 국내 음원유통 4사가 저작권자에게 지급하지 않은 저작권료가 최근 3년간 150억원이 넘는다? 
+
+https://www.nocutnews.co.kr/news/4640745 [음원만 틀어쥐고 버티는 국내 업체들 2016.08.17]
+- 음원유통사의 권한이크다. 전체 음원수익의 60% 이상을 가져감 
+
+* 저작권이 어떤식으로 침해되고 있는가? 2
+https://press.kookmin.ac.kr/news/articleView.html?idxno=13369 [음원 사재기2020.01.02]
+https://news.joins.com/article/23643584 [법적처벌 어려운 음원사재기 2019.11.28]
+
+* 저작권이 어떤식으로 침해되고 있는가? 3
+https://news.joins.com/article/22619306 [멜론 차트 조작 가능2018.05.14]
+
+* 불법 다운로드 
+https://www.hankookilbo.com/News/Read/201807021211760273 
+
+* 해결방안 
+https://www.yonhapnewstv.co.kr/news/MYH20200522002600038 [음원사재기 out 실시간 차트 사라진다2020.05.22]
+
+* 저작권에 대한 인식 
+https://www.hankookilbo.com/News/Read/201807021211760273 [불법 다운로드 왜 하죠? 2018.07.04]
+https://news.joins.com/article/22616845 [음악,영상에 한달 5만원 사용 2030 - 2018.05.12]
+http://www.bloter.net/newsView/blt201503060006 [저작권 인식2015.03.06]
+http://h21.hani.co.kr/arti/society/society_general/49368.html [노래와 연주는 노동이 아니다? 2020.10.16]
+
+
+http://www.hani.co.kr/arti/culture/music/722270.html [저작권료 130원 증가2015.12.16]
+https://www.mediasr.co.kr/news/articleView.html?idxno=48961 [4차 산업혁명과 음악산업2018.07.06]
+https://www.nocutnews.co.kr/news/4953962 [음원 가격 인상 논란2018.04.13]
+https://www.futurekorea.co.kr/news/articleView.html?idxno=113934 [음악 콘텐츠 산업의 특성과 성장 2018.12.27]
